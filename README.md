@@ -6,4 +6,4 @@ Hey, I'm dov118, fullstack developer.
 
 Discord: dov118#8080
 
-Mail: contact@dov118.dev
+Mail: contact.dov118.dev@gmail.com
